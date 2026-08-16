@@ -11,6 +11,9 @@ Desde el curso **CS2031** les damos una cordial bienvenida e inicio de ciclo **2
 ###################################
 ###################################
 ''''''''''''''''''''''''''''''''''''''
+## 🤔 ¿Qué es la Hackatón 0?
+
+lol
 
 ## 😢 ¿Qué pasa si no viste el video de Git y GitHub?
 
