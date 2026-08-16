@@ -3,6 +3,14 @@
 ¡Bienvenidos chicos! 🎉
 Desde el curso **CS2031** les damos una cordial bienvenida e inicio de ciclo **2025-2**. Sabemos que están llenos de energía y ansiosos por comenzar a colaborar en equipo.
 
+# ¿Qué es la Hackatón 0?
+
+#####################################3######
+##########################################
+#####################################
+###################################
+###################################
+''''''''''''''''''''''''''''''''''''''
 ## 🤔 ¿Qué es la Hackatón 0?
 
 lol
