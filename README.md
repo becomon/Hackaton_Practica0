@@ -3,25 +3,14 @@
 ¡Bienvenidos chicos! 🎉
 Desde el curso **CS2031** les damos una cordial bienvenida e inicio de ciclo **2025-2**. Sabemos que están llenos de energía y ansiosos por comenzar a colaborar en equipo.
 
-## 🤔 ¿Qué es la Hackatón 0?
+# ¿Qué es la Hackatón 0?
 
-Esta es una **primera muestra** del concepto de _hackatones_: un tipo de actividad calificada que, al inicio, muchos podrían odiar 😅…
-Pero al final se darán cuenta de que es la que más los prepara para la **industria real**.
-
-👉 Sentarse en equipo, colaborar bajo presión y resolver un problema en poco tiempo es una de las habilidades más valoradas y buscadas en el mundo laboral.
-
-## 👥 Trabajo en equipo
-
-Antes que nada, escoge bien a tu equipo.
-No solo se trata de divertirse mientras trabajan, sino de **complementarse**:
-
-- Habrá quienes sean buenos organizando 🗂️
-- Otros que lideren 🧭
-- Y otros que ejecuten rápido ⚡
-- Pero también quienes sean buenos en la parte técnica 💻
-
-Esta hackatón es **trabajo en equipo + Git + GitHub**.
-Ni siquiera es necesario programar. El reto está en **la comunicación** 🗣️, en cómo coordinan y se reparten las tareas. Poco a poco irán desarrollando esta habilidad clave.
+#####################################3######
+##########################################
+#####################################
+###################################
+###################################
+''''''''''''''''''''''''''''''''''''''
 
 ## 😢 ¿Qué pasa si no viste el video de Git y GitHub?
 
