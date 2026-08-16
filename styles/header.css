@@ -1,0 +1,10 @@
+/* Header Block */
+.header {
+  position: relative;
+  z-index: 100;
+}
+
+/* Ensure body content is not hidden behind fixed nav */
+body {
+  padding-top: 70px;
+}

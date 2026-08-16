@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Git & GitHub - CS2031 Team</title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="page">
+      <header class="header">
+        <nav class="nav">
+          <div class="nav__container">
+            <div class="nav__brand">
+              <span class="nav__logo">CS2031</span>
+            </div>
+
+            <!-- Hidden checkbox for mobile menu toggle -->
+            <input type="checkbox" id="nav-toggle" class="nav__checkbox" />
+            <label for="nav-toggle" class="nav__toggle">
+              <span class="nav__toggle-line nav__toggle-line--top"></span>
+              <span class="nav__toggle-line nav__toggle-line--middle"></span>
+              <span class="nav__toggle-line nav__toggle-line--bottom"></span>
+            </label>
+
+            <ul class="nav__list">
+              <li class="nav__item">
+                <a href="#hero" class="nav__link">Home</a>
+              </li>
+              <li class="nav__item">
+                <a href="#home" class="nav__link">About</a>
+              </li>
+              <li class="nav__item">
+                <a href="#integrantes" class="nav__link">Team</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+      <main class="main">
+        <section id="hero" class="hero">
+          <div class="hero__container">
+            <div class="hero__content">
+              <h1 class="hero__title">Welcome to Git & GitHub</h1>
+              <p class="hero__subtitle">
+                Discover the power of version control and collaboration
+              </p>
+              <div class="hero__actions">
+                <a href="#home" class="hero__button hero__button--primary"
+                  >Learn More</a
+                >
+                <a
+                  href="#integrantes"
+                  class="hero__button hero__button--secondary"
+                  >Meet the Team</a
+                >
+              </div>
+            </div>
+            <div class="hero__visual">
+              <div class="hero__icon">
+                <i class="fab fa-git-alt"></i>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="home" class="home">
+          <div class="home__container">
+            <div class="home__header">
+              <h2 class="home__title">About Git & GitHub</h2>
+              <p class="home__description">
+                Understanding version control and collaborative development
+              </p>
+            </div>
+
+            <div class="home__content">
+              <div class="home__card">
+                <div class="home__card-icon">
+                  <i class="fab fa-git-alt"></i>
+                </div>
+                <h3 class="home__card-title">What is Git?</h3>
+                <p class="home__card-text">
+                  Git is a distributed version control system that tracks
+                  changes in source code during software development. It allows
+                  multiple developers to work on the same project simultaneously
+                  while keeping track of all changes.
+                </p>
+              </div>
+
+              <div class="home__card">
+                <div class="home__card-icon">
+                  <i class="fab fa-github"></i>
+                </div>
+                <h3 class="home__card-title">What is GitHub?</h3>
+                <p class="home__card-text">
+                  GitHub is a cloud-based hosting service that lets you manage
+                  Git repositories. It provides a web-based interface and
+                  additional features like issue tracking, project management,
+                  and collaboration tools.
+                </p>
+              </div>
+
+              <div class="home__card">
+                <div class="home__card-icon">
+                  <i class="fas fa-users"></i>
+                </div>
+                <h3 class="home__card-title">Why Use Them?</h3>
+                <p class="home__card-text">
+                  Together, Git and GitHub enable seamless collaboration, code
+                  backup, version history, and project management for developers
+                  and teams worldwide. They're essential tools in modern
+                  software development.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="team" class="team">
+          <div class="team__container">
+            <div class="team__header">
+              <h2 class="team__title">Meet Our Team</h2>
+              <p class="team__description">
+                The amazing people behind this project
+              </p>
+            </div>
+
+            <div class="team__grid">
+              <!-- Aquí reemplazar con tus datos personales -->
+              <div class="team-card">
+                <div class="team-card__image">
+                  <!-- Aquí tu foto de perfil (puedes usar una URL de tu GitHub o cualquier imagen) -->
+                  <img
+                    src="https://picsum.photos/300/300?random=1"
+                    alt="Tu Nombre"
+                    class="team-card__photo"
+                  />
+                </div>
+                <div class="team-card__content">
+                  <!-- Aquí tu nombre completo -->
+                  <h3 class="team-card__name">Tu Nombre Completo</h3>
+                  <!-- Aquí tu especialidad o rol (ej: Frontend Developer, Backend Developer, etc.) -->
+                  <p class="team-card__role">Tu Especialidad</p>
+                  <div class="team-card__social">
+                    <!-- Aquí tu link de GitHub (reemplaza el # con tu URL) -->
+                    <a
+                      href="#"
+                      class="team-card__social-link team-card__social-link--github"
+                    >
+                      <i class="fab fa-github"></i>
+                    </a>
+                    <!-- Aquí tu link de LinkedIn (reemplaza el # con tu URL) -->
+                    <a
+                      href="#"
+                      class="team-card__social-link team-card__social-link--linkedin"
+                    >
+                      <i class="fab fa-linkedin"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <div class="footer__container">
+          <div class="footer__content">
+            <div class="footer__brand">
+              <span class="footer__logo">CS2031</span>
+              <p class="footer__tagline">Learning Git & GitHub together</p>
+            </div>
+            <div class="footer__links">
+              <a href="https://github.com" class="footer__link">
+                <i class="fab fa-github"></i>
+                GitHub
+              </a>
+              <a href="https://git-scm.com" class="footer__link">
+                <i class="fab fa-git-alt"></i>
+                Git
+              </a>
+            </div>
+          </div>
+          <div class="footer__bottom">
+            <p class="footer__copyright">
+              &copy; 2025 CS2031 Team. All rights reserved.
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
